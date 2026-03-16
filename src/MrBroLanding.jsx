@@ -1512,9 +1512,7 @@ function Footer() {
         />
 
         <p style={{ fontFamily: F.body, fontSize: "0.75rem", color: "#333" }}>
-          mrbro@mrbro.com &nbsp;·&nbsp; © 2026 MR BRO &nbsp;·&nbsp; Not
-          financial advice. High-volatility experiment — only bridge what you're
-          ready to ride with.
+          mrbro@mrbro.com &nbsp;·&nbsp; © 2026 MR BRO &nbsp;·&nbsp;
         </p>
       </div>
     </footer>

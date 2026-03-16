@@ -658,7 +658,7 @@ function Hero() {
               maxWidth: "440px",
             }}
           >
-            MR BRO isn't built on promises — it's built on code. Every burn,
+            MR BRO isn't built on promises it's built on code. Every burn,
             every tax, and every buyback is hardcoded into the BNB Smart Chain.
             No team discretion. No surprises.
           </p>

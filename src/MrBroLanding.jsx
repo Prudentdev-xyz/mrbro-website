@@ -226,7 +226,7 @@ const BURN_STEPS = [
   {
     num: "03",
     title: "Supply Burns",
-    desc: "Those tokens are gone permanently — supply drops with zero sell pressure.",
+    desc: "Those tokens are gone permanently supply drops with zero sell pressure.",
   },
   {
     num: "04",
@@ -794,7 +794,7 @@ function Philosophy() {
     },
     {
       title: "You Can See Everything",
-      desc: "Every burn event, every tax collected, every buyback — it's all public and verifiable on BscScan. You don't have to trust us. You just have to read the contract.",
+      desc: "Every burn event, every tax collected, every buyback it's all public and verifiable on BscScan. You don't have to trust us. You just have to read the contract.",
       accent: C.orange,
     },
     {

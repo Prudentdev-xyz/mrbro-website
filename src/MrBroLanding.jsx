@@ -196,7 +196,7 @@ const ROADMAP = [
 const FAQS = [
   {
     q: "Is MR BRO safe to hold?",
-    a: "The rules are hardcoded directly on-chain. There are no hidden mint functions and the team can't change the tokenomics. Every burn and every tax is publicly verifiable on BscScan — anyone can check at any time.",
+    a: "The rules are hardcoded directly on-chain. There are no hidden mint functions and the team can't change the tokenomics. Every burn and every tax is publicly verifiable on BscScan anyone can check at any time.",
   },
   {
     q: "What actually happens when we reach 100M supply?",
@@ -204,7 +204,7 @@ const FAQS = [
   },
   {
     q: "How is this different from every other meme coin?",
-    a: "Most meme coins run on vibes and promises. MR BRO runs on code. The tokenomics are written into the contract and can't be altered. The community holds the token, the blockchain enforces the rules — no trust required.",
+    a: "Most meme coins run on vibes and promises. MR BRO runs on code. The tokenomics are written into the contract and can't be altered. The community holds the token, the blockchain enforces the rules no trust required.",
   },
   {
     q: "Should I be aware of any risks?",
@@ -789,7 +789,7 @@ function Philosophy() {
   const pillars = [
     {
       title: "The Rules Don't Change",
-      desc: "Once the contract is deployed, that's it. There's no admin key that lets the team mint new tokens or rewrite the rules. What you see on-chain is what you get — permanently.",
+      desc: "Once the contract is deployed, that's it. There's no admin key that lets the team mint new tokens or rewrite the rules. What you see on-chain is what you get permanently.",
       accent: C.lime,
     },
     {
@@ -908,7 +908,7 @@ function Tokenomics() {
               lineHeight: 1.75,
             }}
           >
-            The tokenomics aren't complicated — they're just built differently.
+            The tokenomics aren't complicated they're just built differently.
             Every transaction chips away at the supply, on purpose.
           </p>
         </div>
@@ -1002,7 +1002,7 @@ function Tokenomics() {
               >
                 Half of every treasury allocation goes back into the liquidity
                 pool to deepen the floor. The other half buys tokens off the
-                open market. Both moves support the price — none of it goes to
+                open market. Both moves support the price none of it goes to
                 the team.
               </p>
             </div>
@@ -1034,7 +1034,7 @@ function Tokenomics() {
               >
                 When supply hits 100 million, all taxes stop and ownership of
                 the contract is renounced permanently. At that point, MR BRO is
-                completely free — no team, no fees, no strings attached.
+                completely free no team, no fees, no strings attached.
               </p>
             </div>
           </div>

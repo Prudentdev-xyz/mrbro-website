@@ -1067,7 +1067,7 @@ function BurnEngine() {
               lineHeight: 1.75,
             }}
           >
-            Regular staking hands out token rewards, which holders then sell —
+            Regular staking hands out token rewards, which holders then sell
             putting downward pressure on the price. MR BRO's staking works
             completely differently.
           </p>

@@ -658,9 +658,9 @@ function Hero() {
               maxWidth: "440px",
             }}
           >
-            MR BRO isn't built on promises it's built on code. Every burn,
-            every tax, and every buyback is hardcoded into the BNB Smart Chain.
-            No team discretion. No surprises.
+            MR BRO isn't built on promises it's built on code. Every burn, every
+            tax, and every buyback is hardcoded into the BNB Smart Chain. No
+            team discretion. No surprises.
           </p>
 
           {/* Buttons */}
@@ -1002,8 +1002,8 @@ function Tokenomics() {
               >
                 Half of every treasury allocation goes back into the liquidity
                 pool to deepen the floor. The other half buys tokens off the
-                open market. Both moves support the price none of it goes to
-                the team.
+                open market. Both moves support the price none of it goes to the
+                team.
               </p>
             </div>
             <div
